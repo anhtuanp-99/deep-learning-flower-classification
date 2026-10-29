@@ -21,7 +21,7 @@ import common as C
 # ------------------------------------------------------------------ cấu hình
 THRESHOLD = 0.60        # dưới ngưỡng này hiện "Không chắc chắn" (có thanh kéo chỉnh trên giao diện)
 CAMERA_INDEX = 0        # camera laptop; nếu không mở được thử 1, 2...
-PHONE_CAMERA_URL = "192.168.2.4:8080"   # địa chỉ hiện trong app IP Webcam, ví dụ "192.168.1.5:8080"
+PHONE_CAMERA_URL = "10.86.120.95:8080"   # địa chỉ hiện trong app IP Webcam, ví dụ "192.168.1.5:8080"
 
 CONNECT_TIMEOUT = 8     # chờ tối đa 8 giây để camera gửi khung hình đầu tiên
 PREDICT_EVERY = 0.3     # camera dự đoán mỗi 0.3 giây
