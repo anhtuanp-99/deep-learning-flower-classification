@@ -1,0 +1,9 @@
+# Bắt buộc ignore vì không tương thích giữa các máy
+venv/
+__pycache__/
+*.pyc
+
+# System / IDE files
+.vscode/
+.idea/
+.DS_Store
