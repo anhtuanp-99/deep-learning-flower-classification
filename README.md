@@ -36,7 +36,7 @@ More examples: [`sample_predictions.png`](reports/run_20261020_171820/sample_pre
 
 ## Dataset
 
-- Source: Kaggle flower images dataset (link: _to be added_).
+- Source: Kaggle flower images dataset (link: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
 - 5 classes, 4323 images in `data/flowers/<class_name>/`.
 - Split with three CSV files (columns `Filename`, `Label`, `ClassName`):
 
